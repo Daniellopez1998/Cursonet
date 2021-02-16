@@ -1,0 +1,7 @@
+D:\FP\Modulo2\Practica2\Ejercicio1miercoles\bin\Debug\Ejercicio1miercoles.exe.config
+D:\FP\Modulo2\Practica2\Ejercicio1miercoles\bin\Debug\Ejercicio1miercoles.exe
+D:\FP\Modulo2\Practica2\Ejercicio1miercoles\bin\Debug\Ejercicio1miercoles.pdb
+D:\FP\Modulo2\Practica2\Ejercicio1miercoles\obj\Debug\Ejercicio1miercoles.csprojAssemblyReference.cache
+D:\FP\Modulo2\Practica2\Ejercicio1miercoles\obj\Debug\Ejercicio1miercoles.csproj.CoreCompileInputs.cache
+D:\FP\Modulo2\Practica2\Ejercicio1miercoles\obj\Debug\Ejercicio1miercoles.exe
+D:\FP\Modulo2\Practica2\Ejercicio1miercoles\obj\Debug\Ejercicio1miercoles.pdb

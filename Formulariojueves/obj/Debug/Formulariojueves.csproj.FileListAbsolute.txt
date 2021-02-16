@@ -1,0 +1,10 @@
+D:\FP\Modulo2\Practica2\Formulariojueves\bin\Debug\Formulariojueves.exe.config
+D:\FP\Modulo2\Practica2\Formulariojueves\bin\Debug\Formulariojueves.exe
+D:\FP\Modulo2\Practica2\Formulariojueves\bin\Debug\Formulariojueves.pdb
+D:\FP\Modulo2\Practica2\Formulariojueves\obj\Debug\Formulariojueves.csprojAssemblyReference.cache
+D:\FP\Modulo2\Practica2\Formulariojueves\obj\Debug\Formulariojueves.Properties.Resources.resources
+D:\FP\Modulo2\Practica2\Formulariojueves\obj\Debug\Formulariojueves.csproj.GenerateResource.cache
+D:\FP\Modulo2\Practica2\Formulariojueves\obj\Debug\Formulariojueves.csproj.CoreCompileInputs.cache
+D:\FP\Modulo2\Practica2\Formulariojueves\obj\Debug\Formulariojueves.exe
+D:\FP\Modulo2\Practica2\Formulariojueves\obj\Debug\Formulariojueves.pdb
+D:\FP\Modulo2\Practica2\Formulariojueves\obj\Debug\Formulariojueves.Form1.resources

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Prueba3.Empresas">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Empresas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prueba3.Empleados">
+    <Position X="10" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Empleados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prueba3.Clientes">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Clientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prueba3.Directivos">
+    <Position X="8.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Directivos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

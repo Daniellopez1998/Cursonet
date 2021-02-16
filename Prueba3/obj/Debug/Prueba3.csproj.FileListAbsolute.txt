@@ -1,0 +1,7 @@
+D:\FP\Modulo2\Practica2\Prueba3\bin\Debug\Prueba3.exe.config
+D:\FP\Modulo2\Practica2\Prueba3\bin\Debug\Prueba3.exe
+D:\FP\Modulo2\Practica2\Prueba3\bin\Debug\Prueba3.pdb
+D:\FP\Modulo2\Practica2\Prueba3\obj\Debug\Prueba3.csprojAssemblyReference.cache
+D:\FP\Modulo2\Practica2\Prueba3\obj\Debug\Prueba3.csproj.CoreCompileInputs.cache
+D:\FP\Modulo2\Practica2\Prueba3\obj\Debug\Prueba3.exe
+D:\FP\Modulo2\Practica2\Prueba3\obj\Debug\Prueba3.pdb

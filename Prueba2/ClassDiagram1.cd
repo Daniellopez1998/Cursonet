@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Revista y  periodico hereda de libro">
+    <Position X="4.281" Y="3.979" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="Prueba2.Libro">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAQQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Libro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prueba2.Revista">
+    <Position X="5.25" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAACAAAAAAABAAA=</HashCode>
+      <FileName>Revista.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prueba2.Periodico">
+    <Position X="12" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Periodico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
