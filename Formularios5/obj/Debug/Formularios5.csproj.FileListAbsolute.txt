@@ -8,3 +8,13 @@ D:\FP\Modulo2\Practica2\Formularios5\obj\Debug\Formularios5.csproj.GenerateResou
 D:\FP\Modulo2\Practica2\Formularios5\obj\Debug\Formularios5.csproj.CoreCompileInputs.cache
 D:\FP\Modulo2\Practica2\Formularios5\obj\Debug\Formularios5.exe
 D:\FP\Modulo2\Practica2\Formularios5\obj\Debug\Formularios5.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\Formularios5\bin\Debug\Formularios5.exe.config
+C:\Users\MAÑANA\source\repos\Cursonet\Formularios5\bin\Debug\Formularios5.exe
+C:\Users\MAÑANA\source\repos\Cursonet\Formularios5\bin\Debug\Formularios5.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\Formularios5\obj\Debug\Formularios5.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Formularios5\obj\Debug\Formularios5.Form1.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Formularios5\obj\Debug\Formularios5.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Formularios5\obj\Debug\Formularios5.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Formularios5\obj\Debug\Formularios5.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Formularios5\obj\Debug\Formularios5.exe
+C:\Users\MAÑANA\source\repos\Cursonet\Formularios5\obj\Debug\Formularios5.pdb

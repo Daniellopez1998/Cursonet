@@ -191,6 +191,7 @@ namespace Formularios5
             this.label12.TabIndex = 26;
             this.label12.Text = "*";
             this.label12.Visible = false;
+            //this.label12.Click += new System.EventHandler(this.label12_Click);
             // 
             // label11
             // 
@@ -497,7 +498,6 @@ namespace Formularios5
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(741, 375);
             this.dataGridView1.TabIndex = 1;
-            //this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // Habitación
             // 

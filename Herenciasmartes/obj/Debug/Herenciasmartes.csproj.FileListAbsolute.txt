@@ -1,0 +1,10 @@
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmartes\bin\Debug\Herenciasmartes.exe.config
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmartes\bin\Debug\Herenciasmartes.exe
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmartes\bin\Debug\Herenciasmartes.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmartes\obj\Debug\Herenciasmartes.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmartes\obj\Debug\Herenciasmartes.Form1.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmartes\obj\Debug\Herenciasmartes.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmartes\obj\Debug\Herenciasmartes.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmartes\obj\Debug\Herenciasmartes.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmartes\obj\Debug\Herenciasmartes.exe
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmartes\obj\Debug\Herenciasmartes.pdb

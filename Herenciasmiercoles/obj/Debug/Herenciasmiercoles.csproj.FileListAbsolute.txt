@@ -1,0 +1,10 @@
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmiercoles\bin\Debug\Herenciasmiercoles.exe.config
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmiercoles\bin\Debug\Herenciasmiercoles.exe
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmiercoles\bin\Debug\Herenciasmiercoles.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmiercoles\obj\Debug\Herenciasmiercoles.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmiercoles\obj\Debug\Herenciasmiercoles.CLIENTES.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmiercoles\obj\Debug\Herenciasmiercoles.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmiercoles\obj\Debug\Herenciasmiercoles.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmiercoles\obj\Debug\Herenciasmiercoles.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmiercoles\obj\Debug\Herenciasmiercoles.exe
+C:\Users\MAÑANA\source\repos\Cursonet\Herenciasmiercoles\obj\Debug\Herenciasmiercoles.pdb
