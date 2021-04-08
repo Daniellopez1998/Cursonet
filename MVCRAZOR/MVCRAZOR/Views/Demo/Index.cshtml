@@ -1,0 +1,63 @@
+﻿@*Código Razor compilado resultante de modelo*@
+@*viewbag porta informacion entre el controlador y la vista*@
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>@ViewBag.Mensaje
+
+@*Segunda parte del ejercicio en la cual metemos clases y conseguimos sacar el titulo del libro*@
+
+@*@model MVCRAZOR.Models.Libro
+    El título del libro es <strong>@Model.Titulo</strong>
+*@
+
+
+
+
+@*La primera parte del ejercicio donde se consigue la fecha de hoy y en que parte del de mes estamos*@
+
+@*@{
+        string titulo = "Página principal";
+        int dia = DateTime.Now.Day;
+        int mes = DateTime.Now.Month;
+        int anho = DateTime.Now.Year;
+        string cadena;
+        if (dia > 15)
+        {
+            cadena = "Estamos en la segunda parte del mes";
+        }
+        else
+        {
+            cadena = "Estamos en la primera parte del mes";
+        }
+    }
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Index</title>
+    </head>
+    <body>
+        <div>
+            <h1>@titulo</h1>
+            <p>Fecha:@dia/@mes/@anho</p>
+            <p>@cadena</p>
+        </div>
+    </body>
+    </html>
+*@
+
+
+
+@*Tercera parte, lista de libros con la clase libro*@
+@model IEnumerable<MVCRAZOR.Models.Libro>
+    Listado de libros
+<ul>
+    @foreach (var libro in Model)
+    {
+        <li>@libro.Titulo (@libro.TipoLibro)</li>
+    }
+</ul>

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ClientesSet" EntityType="Model1.Clientes" />
+    <EntitySet Name="PedidosSet" EntityType="Model1.Pedidos" />
+    <EntitySet Name="LineaPedidosSet" EntityType="Model1.LineaPedidos" />
+    <EntitySet Name="ProductosSet" EntityType="Model1.Productos" />
+    <AssociationSet Name="ClientesPedidos" Association="Model1.ClientesPedidos">
+      <End Role="Clientes" EntitySet="ClientesSet" />
+      <End Role="Pedidos" EntitySet="PedidosSet" />
+    </AssociationSet>
+    <AssociationSet Name="PedidosLineaPedidos" Association="Model1.PedidosLineaPedidos">
+      <End Role="Pedidos" EntitySet="PedidosSet" />
+      <End Role="LineaPedidos" EntitySet="LineaPedidosSet" />
+    </AssociationSet>
+    <AssociationSet Name="LineaPedidosProductos" Association="Model1.LineaPedidosProductos">
+      <End Role="LineaPedidos" EntitySet="LineaPedidosSet" />
+      <End Role="Productos" EntitySet="ProductosSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Clientes">
+    <Key>
+      <PropertyRef Name="ClienteId" />
+    </Key>
+    <Property Name="ClienteId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" />
+    <NavigationProperty Name="Pedidos" Relationship="Model1.ClientesPedidos" FromRole="Clientes" ToRole="Pedidos" />
+  </EntityType>
+  <EntityType Name="Pedidos">
+    <Key>
+      <PropertyRef Name="PedidoId" />
+    </Key>
+    <Property Name="PedidoId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ClienteId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Clientes" Relationship="Model1.ClientesPedidos" FromRole="Pedidos" ToRole="Clientes" />
+    <NavigationProperty Name="LineaPedidos" Relationship="Model1.PedidosLineaPedidos" FromRole="Pedidos" ToRole="LineaPedidos" />
+  </EntityType>
+  <EntityType Name="LineaPedidos">
+    <Key>
+      <PropertyRef Name="LineaPedidosId" />
+    </Key>
+    <Property Name="LineaPedidosId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PedidoId" Type="Int32" Nullable="false" />
+    <Property Name="ProductoId" Type="Int32" Nullable="false" />
+    <Property Name="Unidades" Type="String" Nullable="false" />
+    <NavigationProperty Name="Pedidos" Relationship="Model1.PedidosLineaPedidos" FromRole="LineaPedidos" ToRole="Pedidos" />
+    <NavigationProperty Name="Productos" Relationship="Model1.LineaPedidosProductos" FromRole="LineaPedidos" ToRole="Productos" />
+  </EntityType>
+  <EntityType Name="Productos">
+    <Key>
+      <PropertyRef Name="ProductoId" />
+    </Key>
+    <Property Name="ProductoId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" Nullable="false" />
+    <Property Name="Precio" Type="String" Nullable="false" />
+    <NavigationProperty Name="LineaPedidos" Relationship="Model1.LineaPedidosProductos" FromRole="Productos" ToRole="LineaPedidos" />
+  </EntityType>
+  <Association Name="ClientesPedidos">
+    <End Type="Model1.Clientes" Role="Clientes" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="Model1.Pedidos" Role="Pedidos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clientes">
+        <PropertyRef Name="ClienteId" />
+      </Principal>
+      <Dependent Role="Pedidos">
+        <PropertyRef Name="ClienteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PedidosLineaPedidos">
+    <End Type="Model1.Pedidos" Role="Pedidos" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="Model1.LineaPedidos" Role="LineaPedidos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pedidos">
+        <PropertyRef Name="PedidoId" />
+      </Principal>
+      <Dependent Role="LineaPedidos">
+        <PropertyRef Name="PedidoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="LineaPedidosProductos">
+    <End Type="Model1.LineaPedidos" Role="LineaPedidos" Multiplicity="*" />
+    <End Type="Model1.Productos" Role="Productos" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <ReferentialConstraint>
+      <Principal Role="Productos">
+        <PropertyRef Name="ProductoId" />
+      </Principal>
+      <Dependent Role="LineaPedidos">
+        <PropertyRef Name="ProductoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

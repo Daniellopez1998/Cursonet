@@ -1,0 +1,10 @@
+C:\Users\MAÑANA\source\repos\Cursonet\LinqReal2\LinqReal2\bin\Debug\LinqReal2.exe.config
+C:\Users\MAÑANA\source\repos\Cursonet\LinqReal2\LinqReal2\bin\Debug\LinqReal2.exe
+C:\Users\MAÑANA\source\repos\Cursonet\LinqReal2\LinqReal2\bin\Debug\LinqReal2.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\LinqReal2\LinqReal2\obj\Debug\LinqReal2.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\LinqReal2\LinqReal2\obj\Debug\LinqReal2.Form1.resources
+C:\Users\MAÑANA\source\repos\Cursonet\LinqReal2\LinqReal2\obj\Debug\LinqReal2.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Cursonet\LinqReal2\LinqReal2\obj\Debug\LinqReal2.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Cursonet\LinqReal2\LinqReal2\obj\Debug\LinqReal2.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Cursonet\LinqReal2\LinqReal2\obj\Debug\LinqReal2.exe
+C:\Users\MAÑANA\source\repos\Cursonet\LinqReal2\LinqReal2\obj\Debug\LinqReal2.pdb

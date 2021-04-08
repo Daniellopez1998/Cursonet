@@ -1,0 +1,37 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Calculadora</title>
+</head>
+<body>
+    <form method="post">
+        <div>
+            Numero 1:
+            <input type="text" name="txt1" value="@ViewBag.num1" />
+            <br />
+            Numero 2:
+            <input type="text" name="txt2" value="@ViewBag.num2" />
+            <br />
+            Suma:
+            <input type="text" name="txtsuma" value="@ViewBag.s" readonly="readonly" />
+            Resta:
+            <input type="text" name="txtresta" value="@ViewBag.r" readonly="readonly" />
+            Producto:
+            <input type="text" name="txtpro" value="@ViewBag.p" readonly="readonly" />
+            Divisón:
+            <input type="text" name="txtdiv" value="@ViewBag.d" readonly="readonly" />
+            <br />
+            <input type="submit" value="calcular" />
+        </div>
+    </form>
+        @Html.ActionLink("Volver al menu principal", "Index")
+    
+</body>
+</html>

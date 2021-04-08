@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LinqJueves" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=CADAVILES04\SQLEXPRESS;Initial Catalog=LinqJueves;Integrated Security=True" SettingsObjectName="Linqjueves.Properties.Settings" SettingsPropertyName="LinqJuevesConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Pacientes" Member="Pacientes">
+    <Type Name="Pacientes">
+      <Column Name="Inscripción" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="Apellidos" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="sexo" Type="System.String" DbType="NVarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="Fecha" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Direccion" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NumSS" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.SP_Alta" Method="SP_Alta">
+    <Parameter Name="Inscripcion" Parameter="inscripcion" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="Nombre" Parameter="nombre" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="Apellidos" Parameter="apellidos" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="sexo" Type="System.String" DbType="NVarChar(12)" />
+    <Parameter Name="Fecha" Parameter="fecha" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="Direccion" Parameter="direccion" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="NumSS" Parameter="numSS" Type="System.String" DbType="NVarChar(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Baja" Method="SP_Baja">
+    <Parameter Name="Inscripcion" Parameter="inscripcion" Type="System.String" DbType="NVarChar(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_ListarAltas" Method="SP_ListarAltas">
+    <ElementType Name="SP_ListarAltasResult">
+      <Column Name="Inscripción" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="Apellidos" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="sexo" Type="System.String" DbType="NVarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="Fecha" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Direccion" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NumSS" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SP_ModificarAlta" Method="SP_ModificarAlta">
+    <Parameter Name="Inscripcion" Parameter="inscripcion" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="Nombre" Parameter="nombre" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="Apellidos" Parameter="apellidos" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="sexo" Type="System.String" DbType="NVarChar(12)" />
+    <Parameter Name="Fecha" Parameter="fecha" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="Direccion" Parameter="direccion" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="NumSS" Parameter="numSS" Type="System.String" DbType="NVarChar(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_AltaDoctor" Method="SP_AltaDoctor">
+    <Parameter Name="Hospital_Cod" Parameter="hospital_Cod" Type="System.String" DbType="NVarChar(5)" />
+    <Parameter Name="Num_Doctor" Parameter="num_Doctor" Type="System.String" DbType="NVarChar(5)" />
+    <Parameter Name="Apellido" Parameter="apellido" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="Especialidad" Parameter="especialidad" Type="System.String" DbType="NVarChar(20)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_BajaDoctor" Method="SP_BajaDoctor">
+    <Parameter Name="Hospital_Cod" Parameter="hospital_Cod" Type="System.String" DbType="NVarChar(5)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_ListarDoctor" Method="SP_ListarDoctor">
+    <ElementType Name="SP_ListarDoctorResult">
+      <Column Name="Hospital_Cod" Type="System.String" DbType="NVarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="Número_Doctor" Type="System.String" DbType="NVarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="Apellido" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="Especialidad" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SP_ModificarDoctor" Method="SP_ModificarDoctor">
+    <Parameter Name="Hospital_Cod" Parameter="hospital_Cod" Type="System.String" DbType="NVarChar(5)" />
+    <Parameter Name="Num_Doctor" Parameter="num_Doctor" Type="System.String" DbType="NVarChar(5)" />
+    <Parameter Name="Apellido" Parameter="apellido" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="Especialidad" Parameter="especialidad" Type="System.String" DbType="NVarChar(20)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

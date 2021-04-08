@@ -1,0 +1,15 @@
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\bin\Debug\Videoclub.exe.config
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\bin\Debug\Videoclub.exe
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\bin\Debug\Videoclub.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\obj\Debug\Videoclub.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\obj\Debug\MainWindow.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\obj\Debug\App.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\obj\Debug\Videoclub_MarkupCompile.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\obj\Debug\Videoclub_MarkupCompile.lref
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\obj\Debug\MainWindow.baml
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\obj\Debug\Videoclub.g.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\obj\Debug\Videoclub.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\obj\Debug\Videoclub.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\obj\Debug\Videoclub.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\obj\Debug\Videoclub.exe
+C:\Users\MAÑANA\source\repos\Cursonet\Videoclub\obj\Debug\Videoclub.pdb

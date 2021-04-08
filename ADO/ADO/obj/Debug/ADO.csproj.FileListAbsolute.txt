@@ -1,0 +1,10 @@
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO\bin\Debug\ADO.exe.config
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO\bin\Debug\ADO.exe
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO\bin\Debug\ADO.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO\obj\Debug\ADO.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO\obj\Debug\ADO.Form1.resources
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO\obj\Debug\ADO.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO\obj\Debug\ADO.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO\obj\Debug\ADO.exe
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO\obj\Debug\ADO.pdb

@@ -1,0 +1,14 @@
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\bin\Debug\Linqjueves.exe.config
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\bin\Debug\Linqjueves.exe
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\bin\Debug\Linqjueves.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\obj\Debug\Linqjueves.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\obj\Debug\Linqjueves.Form1.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\obj\Debug\Linqjueves.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\obj\Debug\Linqjueves.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\obj\Debug\Linqjueves.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\obj\Debug\Linqjueves.exe
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\obj\Debug\Linqjueves.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\obj\Debug\Linqjueves.Form2.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\obj\Debug\Linqjueves.MDIParent1.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\obj\Debug\Linqjueves.Form3.resources
+C:\Users\MAÑANA\source\repos\Cursonet\Linqjueves\Linqjueves\obj\Debug\Linqjueves.Form4.resources

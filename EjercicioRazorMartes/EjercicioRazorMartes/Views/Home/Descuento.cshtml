@@ -1,0 +1,32 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Descuento</title>
+</head>
+<body>
+    <form method="post">
+        <div>
+            <h1>DescuentoCompra</h1>
+            Tarifa producto:
+            <input type="text" name="txttpr" value="@ViewBag.tpr" />
+            <br />
+            Total pagado:
+            <input type="text" name="txttpa" value="@ViewBag.tpa" />
+            <br />
+            <input type="submit" value="Calcular" />
+            <br />
+            El porcentaje descontado es:
+            <input type="text" name="txtpd" value="@ViewBag.pd" readonly="readonly" />
+            %
+        </div>
+    </form>
+    @Html.ActionLink("Volver al menu principal", "Index")
+</body>
+</html>

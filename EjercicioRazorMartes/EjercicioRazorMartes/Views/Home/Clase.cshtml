@@ -1,0 +1,54 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Clase</title>
+</head>
+<body>
+    <form method="post">
+        <div>
+            Numero de suspensos:
+            <input type="text" name="txtsus" value="@ViewBag.sus" />
+            <br />
+            Numero de aprobados:
+            <input type="text" name="txtapr" value="@ViewBag.apr" />
+            <br />
+            Numero de notables:
+            <input type="text" name="txtnot" value="@ViewBag.not" />
+            <br />
+            Numero de sobresalientes:
+            <input type="text" name="txtsob" value="@ViewBag.sob" />
+            <br />
+            <input type="submit" value="Calcular" />
+            <br />
+            % Alumnos que superaron la asignatura:
+            <input type="text" name="txtpsup" value="@ViewBag.psup" readonly="readonly" />
+            %
+            <br />
+            % Suspensos:
+            <input type="text" name="txtpsus" value="@ViewBag.psus" readonly="readonly" />
+            %
+            <br />
+            % Aprobados:
+            <input type="text" name="txtpapr" value="@ViewBag.papr" readonly="readonly" />
+            %
+            <br />
+            %Notables:
+            <input type="text" name="txtpnot" value="@ViewBag.pnot" readonly="readonly" />
+            %
+            <br />
+            Sobresalientes:
+            <input type="text" name="txtpsob" value="@ViewBag.psob" readonly="readonly" />
+            %
+            <br />
+        </div>
+    </form>
+    @Html.ActionLink("Volver al menu principal", "Index")
+</body>
+</html>

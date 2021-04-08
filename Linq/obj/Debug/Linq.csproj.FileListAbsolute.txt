@@ -1,0 +1,9 @@
+C:\Users\MAÑANA\source\repos\Linq\obj\Debug\Linq.Form1.resources
+C:\Users\MAÑANA\source\repos\Linq\obj\Debug\Linq.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Linq\obj\Debug\Linq.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Linq\bin\Debug\Linq.exe.config
+C:\Users\MAÑANA\source\repos\Linq\bin\Debug\Linq.exe
+C:\Users\MAÑANA\source\repos\Linq\bin\Debug\Linq.pdb
+C:\Users\MAÑANA\source\repos\Linq\obj\Debug\Linq.exe
+C:\Users\MAÑANA\source\repos\Linq\obj\Debug\Linq.pdb

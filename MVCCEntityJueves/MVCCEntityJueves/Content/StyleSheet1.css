@@ -1,0 +1,21 @@
+﻿.titulos{
+    font-size:20px;
+    font-weight:bold;
+}
+
+#bannerimg {
+    width: 1200px;
+}
+
+.img{
+    width:300px;
+}
+
+.divimg {
+    float: left;
+    width: 33%;
+}
+
+#botones{
+    width:1000px;
+}

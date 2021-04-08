@@ -1,0 +1,15 @@
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\bin\Debug\SimulacroExamenModulo2.exe.config
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\bin\Debug\SimulacroExamenModulo2.exe
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\bin\Debug\SimulacroExamenModulo2.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\bin\Debug\EntityFramework.dll
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\bin\Debug\EntityFramework.xml
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\obj\Debug\SimulacroExamenModulo2.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\obj\Debug\SimulacroExamenModulo2.Form1.resources
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\obj\Debug\SimulacroExamenModulo2.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\obj\Debug\SimulacroExamenModulo2.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\obj\Debug\SimulacroExamenModulo2.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\obj\Debug\SimulacroExamenModulo2.csproj.CopyComplete
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\obj\Debug\SimulacroExamenModulo2.exe
+C:\Users\MAÑANA\source\repos\Cursonet\SimulacroExamenModulo2\SimulacroExamenModulo2\obj\Debug\SimulacroExamenModulo2.pdb

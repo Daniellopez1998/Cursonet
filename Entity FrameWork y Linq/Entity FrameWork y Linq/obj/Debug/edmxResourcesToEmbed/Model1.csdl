@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EntityFrameworkModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Alumnos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Edad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Nota" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Idprofesor" Type="Int32" />
+    <NavigationProperty Name="Profesores" Relationship="Self.FK_Idprofesor" FromRole="Alumnos" ToRole="Profesores" />
+  </EntityType>
+  <EntityType Name="Profesores">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Especialidad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Alumnos" Relationship="Self.FK_Idprofesor" FromRole="Profesores" ToRole="Alumnos" />
+  </EntityType>
+  <Association Name="FK_Idprofesor">
+    <End Role="Profesores" Type="Self.Profesores" Multiplicity="0..1" />
+    <End Role="Alumnos" Type="Self.Alumnos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Profesores">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Alumnos">
+        <PropertyRef Name="Idprofesor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EntityFrameworkEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Alumnos" EntityType="Self.Alumnos" />
+    <EntitySet Name="Profesores" EntityType="Self.Profesores" />
+    <AssociationSet Name="FK_Idprofesor" Association="Self.FK_Idprofesor">
+      <End Role="Profesores" EntitySet="Profesores" />
+      <End Role="Alumnos" EntitySet="Alumnos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

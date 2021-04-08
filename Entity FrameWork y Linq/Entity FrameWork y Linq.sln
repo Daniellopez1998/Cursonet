@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity FrameWork y Linq", "Entity FrameWork y Linq\Entity FrameWork y Linq.csproj", "{68BC2AB9-1482-4F7A-A66A-9383B101E741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiltrosDatosLinqViernes", "FiltrosDatosLinqViernes\FiltrosDatosLinqViernes.csproj", "{3BFA26CB-AFF2-4C08-9A53-CD23C573EB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68BC2AB9-1482-4F7A-A66A-9383B101E741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BC2AB9-1482-4F7A-A66A-9383B101E741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BC2AB9-1482-4F7A-A66A-9383B101E741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BC2AB9-1482-4F7A-A66A-9383B101E741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BFA26CB-AFF2-4C08-9A53-CD23C573EB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BFA26CB-AFF2-4C08-9A53-CD23C573EB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BFA26CB-AFF2-4C08-9A53-CD23C573EB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BFA26CB-AFF2-4C08-9A53-CD23C573EB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A0EEBFA-6C63-4C4D-BFC4-FBE99E3C6B7A}
+	EndGlobalSection
+EndGlobal

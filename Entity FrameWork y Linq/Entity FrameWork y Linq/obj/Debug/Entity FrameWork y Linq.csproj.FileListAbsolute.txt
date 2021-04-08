@@ -1,0 +1,8 @@
+C:\Users\MAÑANA\source\repos\Cursonet\Entity FrameWork y Linq\Entity FrameWork y Linq\obj\Debug\Entity FrameWork y Linq.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Entity FrameWork y Linq\Entity FrameWork y Linq\obj\Debug\MainWindow.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\Entity FrameWork y Linq\Entity FrameWork y Linq\obj\Debug\Window1.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\Entity FrameWork y Linq\Entity FrameWork y Linq\obj\Debug\Window2.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\Entity FrameWork y Linq\Entity FrameWork y Linq\obj\Debug\App.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\Entity FrameWork y Linq\Entity FrameWork y Linq\obj\Debug\Entity FrameWork y Linq_Content.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\Entity FrameWork y Linq\Entity FrameWork y Linq\obj\Debug\Entity FrameWork y Linq_MarkupCompile.cache
+C:\Users\MAÑANA\source\repos\Cursonet\Entity FrameWork y Linq\Entity FrameWork y Linq\obj\Debug\Entity FrameWork y Linq_MarkupCompile.lref

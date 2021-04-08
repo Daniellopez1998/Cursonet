@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqReal2", "LinqReal2\LinqReal2.csproj", "{9B68326D-5C70-4CFF-8290-3D5ECB0BEC4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWPF", "LinqWPF\LinqWPF.csproj", "{9D03AA46-7E82-4A53-A803-54F2EEAE728D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B68326D-5C70-4CFF-8290-3D5ECB0BEC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B68326D-5C70-4CFF-8290-3D5ECB0BEC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B68326D-5C70-4CFF-8290-3D5ECB0BEC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B68326D-5C70-4CFF-8290-3D5ECB0BEC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D03AA46-7E82-4A53-A803-54F2EEAE728D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D03AA46-7E82-4A53-A803-54F2EEAE728D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D03AA46-7E82-4A53-A803-54F2EEAE728D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D03AA46-7E82-4A53-A803-54F2EEAE728D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F3F4964-93B7-4F02-ACA6-6B395A9DE02A}
+	EndGlobalSection
+EndGlobal

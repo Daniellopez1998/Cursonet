@@ -1,0 +1,69 @@
+﻿<Window x:Class="MiPrimerWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MiPrimerWPF"
+        mc:Ignorable="d"
+        Title="Base de datos" Height="450" Width="800"
+        Background="chocolate"
+        Cursor="Arrow"
+        Icon="c:\icono.png"
+        ShowInTaskbar="True"
+        ResizeMode="NoResize">
+
+
+    <Grid Margin="0,-26,0,0">
+        <DockPanel Margin="0,0,0,242.2">
+            <Menu DockPanel.Dock="top">
+                <MenuItem Header="_Fichero" Height="84" Width="115">
+                    <MenuItem Header="_Nuevo"/>
+                    <MenuItem Header="_Abrir"/>
+                    <MenuItem Header="_Salvar"/>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <StackPanel Margin="61,8,10,379" Background="SkyBlue">
+            <TextBlock Margin="212,0,292,0" Text="Cafeteria Ria" Height="57" FontSize="36"/>
+        </StackPanel>
+        <WrapPanel Margin="0,75,0,216" Background="LightYellow">
+            <WrapPanel Height="51" Width="799">
+                <TextBlock Width="228" Margin="15,10,0,0" Text="¿con que quieres el cafe?" Height="30" FontSize="20"></TextBlock>
+                <Button Margin="15,10,0,0" Width="115" Content="Con leche"/>
+                <Button Margin="15,10,0,0" Width="115" Content="Cortado"/>
+                <Button Margin="15,10,0,0" Width="115" Content="Capuchino"/>
+                <Button Margin="15,10,0,0" Width="115" Content="Carajillo"/>
+            </WrapPanel>
+            <WrapPanel Height="107" Width="799">
+                <Image Source="c:\cafe.jpg" Margin="300,0,0,0" Width="165" Height="102"/>
+            </WrapPanel>
+        </WrapPanel>
+        <StackPanel Margin="0,234,0,79" Background="Beige">
+            <WrapPanel>
+            <WrapPanel HorizontalAlignment="Left" Height="133" Width="251" >
+                <WrapPanel Height="32" Margin="10,10,0,0" Width="308">
+                    <CheckBox Content="Bombon de chocolate" Margin="100,10,0,0" Width="140"/>
+                </WrapPanel>
+                <WrapPanel Height="32" Margin="10,10,0,0" Width="308">
+                    <CheckBox Content="Galleta"  Margin="100,10,0,0"/>
+                </WrapPanel>
+                <WrapPanel Height="32" Margin="10,10,0,0" Width="308">
+                    <CheckBox  Content="2 de azucar"  Margin="100,10,0,0"/>
+                </WrapPanel>
+                
+            </WrapPanel>
+                <WrapPanel Height="132" HorizontalAlignment="Right" Width="517">
+                    <WrapPanel Width="515" Height="60">
+                        <TextBox Width="126" Margin="40,15,0,0"  TextAlignment="Center" Background="LightGreen" BorderBrush="Green" Text="Pagado" Height="30" FontSize="20"/>
+                        <TextBox Width="273" Margin="40,15,0,0"  TextAlignment="Center" Background="LightGreen" BorderBrush="Green" Height="30" FontSize="20"/>
+                    </WrapPanel>
+                    <WrapPanel Width="502" Height="57">
+                        <TextBox Width="126" Margin="40,10,0,0"  TextAlignment="Center" Background="LightGreen" BorderBrush="Green" Text="Devuelto" Height="30" FontSize="20"/>
+                        <TextBox Width="273" Margin="40,10,0,0"  TextAlignment="Center" Background="LightGreen" BorderBrush="Green" Height="30" FontSize="20"/>
+                    </WrapPanel>
+                </WrapPanel>
+            </WrapPanel>
+        </StackPanel>
+        <StackPanel Margin="0,371,0,5" Background="Cyan"></StackPanel>
+    </Grid>
+</Window>

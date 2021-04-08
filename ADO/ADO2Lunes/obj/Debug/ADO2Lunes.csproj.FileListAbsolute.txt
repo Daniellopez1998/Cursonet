@@ -1,0 +1,10 @@
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO2Lunes\bin\Debug\ADO2Lunes.exe.config
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO2Lunes\bin\Debug\ADO2Lunes.exe
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO2Lunes\bin\Debug\ADO2Lunes.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO2Lunes\obj\Debug\ADO2Lunes.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO2Lunes\obj\Debug\ADO2Lunes.Form1.resources
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO2Lunes\obj\Debug\ADO2Lunes.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO2Lunes\obj\Debug\ADO2Lunes.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO2Lunes\obj\Debug\ADO2Lunes.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO2Lunes\obj\Debug\ADO2Lunes.exe
+C:\Users\MAÑANA\source\repos\Cursonet\ADO\ADO2Lunes\obj\Debug\ADO2Lunes.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empleados xmlns="urn:lst-emp:emp">
+  <Employee xmlns="">
+    <EmpId>4</EmpId>
+    <Name>dsfds</Name>
+  </Employee>
+  <Employee xmlns="">
+    <EmpId>213</EmpId>
+    <Name>wddsad</Name>
+  </Employee>
+  <Employee xmlns="">
+    <EmpId>1</EmpId>
+    <Name>Pelayo</Name>
+  </Employee>
+  <Employee xmlns="">
+    <EmpId></EmpId>
+    <Name>Yessica</Name>
+  </Employee>
+  <Employee xmlns="">
+    <EmpId>3</EmpId>
+    <Name>Carmen</Name>
+  </Employee>
+</Empleados>

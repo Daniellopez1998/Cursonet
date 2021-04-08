@@ -1,0 +1,15 @@
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\bin\Debug\MiPrimerWPF.exe.config
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\bin\Debug\MiPrimerWPF.exe
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\bin\Debug\MiPrimerWPF.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\obj\Debug\MiPrimerWPF.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\obj\Debug\App.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\obj\Debug\MiPrimerWPF_MarkupCompile.cache
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\obj\Debug\MiPrimerWPF_MarkupCompile.lref
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\obj\Debug\MainWindow.baml
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\obj\Debug\MiPrimerWPF.g.resources
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\obj\Debug\MiPrimerWPF.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\obj\Debug\MiPrimerWPF.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\obj\Debug\MiPrimerWPF.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\obj\Debug\MiPrimerWPF.exe
+C:\Users\MAÑANA\source\repos\Cursonet\MiPrimerWPF\obj\Debug\MiPrimerWPF.pdb

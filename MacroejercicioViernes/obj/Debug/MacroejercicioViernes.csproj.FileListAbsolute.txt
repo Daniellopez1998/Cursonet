@@ -1,0 +1,15 @@
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\obj\Debug\MacroejercicioViernes.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\obj\Debug\MainWindow.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\obj\Debug\App.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\obj\Debug\MacroejercicioViernes_MarkupCompile.cache
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\obj\Debug\MacroejercicioViernes_MarkupCompile.lref
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\bin\Debug\MacroejercicioViernes.exe.config
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\bin\Debug\MacroejercicioViernes.exe
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\bin\Debug\MacroejercicioViernes.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\obj\Debug\MainWindow.baml
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\obj\Debug\MacroejercicioViernes.g.resources
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\obj\Debug\MacroejercicioViernes.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\obj\Debug\MacroejercicioViernes.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\obj\Debug\MacroejercicioViernes.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\obj\Debug\MacroejercicioViernes.exe
+C:\Users\MAÑANA\source\repos\Cursonet\MacroejercicioViernes\obj\Debug\MacroejercicioViernes.pdb

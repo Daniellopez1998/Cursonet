@@ -1,0 +1,15 @@
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\bin\Debug\VentanaWPF.exe.config
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\bin\Debug\VentanaWPF.exe
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\bin\Debug\VentanaWPF.pdb
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\obj\Debug\VentanaWPF.csprojAssemblyReference.cache
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\obj\Debug\MainWindow.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\obj\Debug\App.g.cs
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\obj\Debug\VentanaWPF_MarkupCompile.cache
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\obj\Debug\VentanaWPF_MarkupCompile.lref
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\obj\Debug\MainWindow.baml
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\obj\Debug\VentanaWPF.g.resources
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\obj\Debug\VentanaWPF.Properties.Resources.resources
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\obj\Debug\VentanaWPF.csproj.GenerateResource.cache
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\obj\Debug\VentanaWPF.csproj.CoreCompileInputs.cache
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\obj\Debug\VentanaWPF.exe
+C:\Users\MAÑANA\source\repos\Cursonet\VentanaWPF\obj\Debug\VentanaWPF.pdb

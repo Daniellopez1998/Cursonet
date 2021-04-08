@@ -1,0 +1,22 @@
+﻿body {
+}
+
+.Contenedor {
+    width: 100%;
+    height: 26px;
+    
+}
+
+.Labels{
+    width:8%;
+    float:left;
+}
+
+.Textbox{
+    width:91.9%;
+    float:left;
+}
+
+.dos {
+    height: 16px;
+}

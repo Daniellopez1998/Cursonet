@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Coversor</title>
+</head>
+<body>
+    <form method="post">
+        <div>
+            <h1>Conversor</h1>
+            <h2>Celsius-Fahrenheit</h2>
+            Celsius:
+            <input type="text" name="txtc" value="@ViewBag.c" />
+            <br />
+            <input type="submit" value="convertir" />
+            <br />
+            Fahrenheit:
+            <input type="text" name="txtf" value="@ViewBag.f" readonly="readonly" />
+            <br />
+            <h2>Pulgadas-Metros</h2>
+            Pulgadas:
+            <input type="text" name="txtp" value="@ViewBag.p" />
+            <br />
+            <input type="submit" value="convertir" />
+            <br />
+            Metros:
+            <input type="text" name="txtm" value="@ViewBag.m" readonly="readonly" />
+            <br />
+        </div>
+    </form>
+        @Html.ActionLink("Volver al menu principal", "Index")
+</body>
+</html>
